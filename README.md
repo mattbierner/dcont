@@ -3,7 +3,7 @@
     <img src="https://raw.github.com/fantasyland/fantasy-land/master/logo.png" align="right" width="82px" height="82px" alt="Fantasy Land logo" />
 </a>
 
-[Delimited continuation][dcont] Akh monad transformer that layers delimited
+[Delimited continuation][dcont] [Akh][akh] monad transformer that layers delimited
 control over a monad (`dcont::trans::dcont`).
 
 The base type, `dcont::dcont`, provides delimited control on its own.
