@@ -12,10 +12,10 @@
         "delimited continuation"],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mattbierner/unique-m.git"
+        "url": "https://github.com/mattbierner/dcont.git"
     },
     "bugs": {
-       "url" : "https://github.com/mattbierner/unique-m/issues"
+       "url" : "https://github.com/mattbierner/dcont/issues"
     },
     
     "main": "index.js",
